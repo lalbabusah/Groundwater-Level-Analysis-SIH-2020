@@ -14,15 +14,14 @@ In this project we have to do data analysis to provide the following solution:
 * Percentage increase and decrease in the groundwater level at various sites(bore well, dug well and tube well)
 
 ## Data Acquisition
-We have downloaded data from the website of CGWA- IndiaWRIS (Water Resources Information System) for data analysis.
+Downloaded data from the website of CGWA- IndiaWRIS (Water Resources Information System) for data analysis.
 
 ## Data Preprocessing 
-We have used Python(Libraries-Pandas, NumPy) on Jupyter notebook platform for data analysis.
+Used Python(Libraries-Pandas, NumPy) on Jupyter notebook platform for data analysis.
 
 ## Data Visualization and Analysis
-We have used Business Intelligence tool –TABLEAU for data visualisation and analysis.
+Used Business Intelligence tool –TABLEAU for data visualisation and analysis. 
+Here is the Tableau Public link: https://public.tableau.com/profile/lalbabusah
 
 ## Model Development
-Machine Learning model ARIMA (Auto Regressive Integrated Moving Average) for time series forecasting.
-
-
+Used Machine Learning model ARIMA (Auto Regressive Integrated Moving Average) for time series forecasting.
