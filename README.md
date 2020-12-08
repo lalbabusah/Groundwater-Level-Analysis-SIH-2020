@@ -1,4 +1,3 @@
-# Groundwater Level Analysis in India
 ## Table of contents
 * [Introduction: Business Problem](#introduction)
 * [Data Acquisition](#Data_Acquisition)
